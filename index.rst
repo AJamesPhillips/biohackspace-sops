@@ -1,19 +1,19 @@
 =============================
-London Biohackspace SOP Index
+Cambridge BioMakeSpace SOP Index
 =============================
 
 Biolab Rules and Guidelines
 ===========================
 +------------------------------------------------------------+---------------------------------------------+
-| `BioLab Rules <biolab-rules.rst>`__:                       | London Biohackspace BioLab Rules            |
+| `BioLab Rules <biolab-rules.rst>`__:                       | Cambridge BioMakeSpace BioLab Rules            |
 +------------------------------------------------------------+---------------------------------------------+
-| `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__: | London Biohackspace BioLab Usage Guidelines |
+| `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__: | Cambridge BioMakeSpace BioLab Usage Guidelines |
 +------------------------------------------------------------+---------------------------------------------+
 
 1. Introduction
 ===============
 +------------------------------+-----------------------------------------------------------------------+
-| `LBL01001 <lbl01001.rst>`__: | Introduction to the London Biohackspace Standard Operating Procedures |
+| `LBL01001 <lbl01001.rst>`__: | Introduction to the Cambridge BioMakeSpace Standard Operating Procedures |
 +------------------------------+-----------------------------------------------------------------------+
 
 2. Health and Safety Prerequisites, Inductions and Training
