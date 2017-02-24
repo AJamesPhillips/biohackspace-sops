@@ -21,16 +21,16 @@ Phrasing Styleguide
 
 "Containment level 1" is abreviated to "CL1".
 
-"Cambridge Biomakespace" or "Biomakespace" is referred to as "the lab" throughout. 
+"Cambridge Biomakespace" or "Biomakespace" is referred to as "the lab" or "BioLab" throughout.
 
-The "Biomakespace Standard Operating Procedures" are referred to as "the SOPs" throughout.
+The "Biomakespace Standard Operating Procedures" are referred to as "the SOPs" or "BioLab SOPs" throughout.
 
 The "Biomakespace Rules" or "Lab Rules" are referred to as "the rules" throughout.
 
 Formating StyleGuide
 --------------------
 
-Headings: 
+Headings:
 
 	====================
 	BIOMXXXXX - SOP Title
