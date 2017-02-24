@@ -4,7 +4,7 @@ LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
 
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL06001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL06001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -13,11 +13,11 @@ LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
 
 Purpose
 =======
-The purpose of this SOP is to highlight the requirements to lab users starting new projects in the London Biohackspace BioLab in terms of the risks presented by undertaking such work. In particular, risks from the use of chemicals, reagents and equipment should be considered along with the important considerations that are essentially for working with genetically modified organisms.
+The purpose of this SOP is to highlight the requirements to lab users starting new projects in the BioLab in terms of the risks presented by undertaking such work. In particular, risks from the use of chemicals, reagents and equipment should be considered along with the important considerations that are essentially for working with genetically modified organisms.
 
 Scope
 =====
-This SOP applies to all users of the London Biohackspace BioLab proposing a CL1 project.
+This SOP applies to all users of the BioLab proposing a CL1 project.
 
 Responsibilities
 ================
@@ -32,7 +32,7 @@ List of materials and methods for project work.
 Related documents
 =================
 
-- `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
+- `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
 - SOPs relating to procedures used within the proposed project
 - `London Biohackspace CL1 Project Risk Assessment Template <https://goo.gl/C91Jpu>`__
 
@@ -79,10 +79,10 @@ Items for PIs to consider
 #. Consider the potential hazardous properties from your micro-organism cross referenced to national categorisation lists, e.g `Approved List of Biological Agents <http://www.hse.gov.uk/pubns/misc208.pdf>`__ [#]_.
 
 #. Any micro-organisms to be used within the lab must fall within the hazard group 1 (HG1) category. Biological agents are categorised into HG categories based on the following criteria:
-   
+
    #. are they harmful to human health?
    #. are they a hazard to employees/workers within the organisation?
-   #. transmissible to the community? 
+   #. transmissible to the community?
    #. whether effective treatment and/or prophylaxis (including vaccines) are available?
 
 #. The PI should consider how the micro-organism is being modified (in the case of GMMs), e.g are there enhancements of function, altered tropisms and/or altered routes of transmission?  Consideration should be given to impacts on its hazardous properties i.e. more pathogenic, attenuated or unchanged.
@@ -93,8 +93,8 @@ Items for PIs to consider
 
 #. The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge and/or at room temperature and if it requires any other special storage requirements.
 
-#. Important: If the micro organism is in risk group 1 and will be genetically modified then containment level one procedures must be adhered to.  
-   
+#. Important: If the micro organism is in risk group 1 and will be genetically modified then containment level one procedures must be adhered to.
+
    **Note**: If it is deemed to be in hazard group 2 or higher then this organism cannot be used in the BioLab.  The PI should understand the difference between the HG groups and be able to explain why the organism falls into HG1 and not higher.
 
 #. The principal investigator should also assess the risks to the environment involved with the organism. Particularly, genetically modified organisms developed in the lab should not be allowed to leave the defined containment area in case of the risk of becoming introduced to the wider environment where they may have an impact on either the ecosystem or health of the community.
@@ -117,7 +117,7 @@ The BSO is responsible for keeping the written risk assessment for the required 
 Assessing the risks involved in the use of chemicals and reagents
 -----------------------------------------------------------------
 The principal investigator should check whether a required chemical or reagent for their project is already in use in the laboratory.  If not they should locate the relevant MSDS for the substance in question and should pay particular attention to the following factors:
-                
+
 #. How should the substance be handled? Is particular PPE required, and is this available?
 #. How is the substance stored and can this be accommodated in the laboratory? For example, it may not be practical to store highly volatile, flammable, corrosive or controlled substances on site.
 #. How should the substance be disposed of? Primarily, can this be disposed of down the drain (diluted or undiluted?) or are special disposal measures required? If so are these available?

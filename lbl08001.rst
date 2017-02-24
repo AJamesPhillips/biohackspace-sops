@@ -3,7 +3,7 @@ LBL08001 - Maintenance and Cleaning
 ===================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL08001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL08001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -48,8 +48,8 @@ The following items should be available in the lab
 
 Related documents
 =================
-| `LBL08003 - Handling spillage of micro-organisms <lbl08003.rst>`__ 
-| `LBL04007 - Using the Kill Bin <lbl04007.rst>`__ 
+| `LBL08003 - Handling spillage of micro-organisms <lbl08003.rst>`__
+| `LBL04007 - Using the Kill Bin <lbl04007.rst>`__
 
 Definitions
 ===========

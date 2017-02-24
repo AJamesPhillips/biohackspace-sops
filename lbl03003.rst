@@ -3,7 +3,7 @@ LBL03003 - Responsibilities of Principle Investigators and Lab Users
 ====================================================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL03003   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL03003   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -13,13 +13,13 @@ LBL03003 - Responsibilities of Principle Investigators and Lab Users
 Purpose
 =======
 
-This SOP gives an overview of the responsibilities of lab users and principal investigators (PIs) carrying out a project in the London Biohackspace BioLab.
+This SOP gives an overview of the responsibilities of lab users and principal investigators (PIs) carrying out a project in the BioLab.
 
 Scope
 =====
-All users of the London Biohackspace BioLab need to be aware of the requirements they must conform to and the responsibilities they bear when using the BioLab.
+All users of the BioLab need to be aware of the requirements they must conform to and the responsibilities they bear when using the BioLab.
 
-All users of the London Biohackspace BioLab need to be aware of the requirements they must conform to and the responsibilities they bear when acting as PIs.
+All users of the BioLab need to be aware of the requirements they must conform to and the responsibilities they bear when acting as PIs.
 
 An individual is considered to be a PI in charge of their work when carrying out any non contained use work in the BioLab that is unsupervised by another trained individual. An individual is also considered to be the PI in charge of any work done by themselves, or other users, that is part of a project, involving GMOs, for which the individual carried out the risk assessment.
 
@@ -37,7 +37,7 @@ GMO
 
 Responsibilities
 ================
-A BioLab user is responsible for following the best practices described in the London Biohackspace SOPs and associated documentation in order to carry out their work safely.
+A BioLab user is responsible for following the best practices described in the BioLab SOPs and associated documentation in order to carry out their work safely.
 
 A PI is responsible for the best practices set out in the SOPs and associated documentation being followed by themselves and others during the course of work on a project. Where a risk assessment has been carried out (e.g. for a project involving GMOs) the PI is also responsible for the following of the best practices defined in that risk assessment during work by themselves, or others, on that project.
 
@@ -47,10 +47,10 @@ Requirements
 BioLab Users
 ------------
 
-#. BioLab users must at all times follow the `London Biohackspace BioLab Rules <biolab-rules.rst>`__. This includes:
+#. BioLab users must at all times follow the `BioLab Rules <biolab-rules.rst>`__. This includes:
 
-   #. the necessity to follow the `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__ when working in the BioLab;
-   #. the necessity to follow the procedures described in the London Biohackspace SOPs;
+   #. the necessity to follow the `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__ when working in the BioLab;
+   #. the necessity to follow the procedures described in the BioLab SOPs;
    #. and, the necessity to communicate infringement of these practices to the BSO.
 
 #. BioLab users must follow advice that the BSO gives where it pertains to safe and correct usage of the BioLab.

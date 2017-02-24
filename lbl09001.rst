@@ -3,7 +3,7 @@ LBL09001 - Handling, Storage, and Disposal of Ethidium Bromide (EtBr)
 =====================================================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL09001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL09001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

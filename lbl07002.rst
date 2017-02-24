@@ -4,7 +4,7 @@ LBL07002 - Heat shock transformation of *E. coli*
 
 
 +-----------------------+----------------+--------------------+
-| Author: S. Thompson   | Approved by:   | SOP No. LBL07002   |
+| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. LBL07002   |
 +-----------------------+----------------+--------------------+
 | Signed:               | Signed:        | Effective from:    |
 +-----------------------+----------------+--------------------+
@@ -47,7 +47,7 @@ Procedures
 ==========
 #. Take frozen chemically competent aliquots and thaw on ice.
 #. Add an appropriate amount of plasmid DNA (based on initial plasmid concentration). Mix carefully by pipeting or flicking the tube.
-   
+
    **Note:** Also remember to use a negative control such as sterile water for at least one of the samples.
 #. Incubate on ice for 20 to 30 minutes.
 #. Heat shock by placing the sample tubes into a 42C water bath for 60 seconds.

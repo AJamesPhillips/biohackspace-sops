@@ -4,7 +4,7 @@ LBL04005: Operating the Laminar Flow Unit for Asceptic Sample Handling
 
 
 +-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL04005   |
+| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. LBL04005   |
 +-----------+----------------------------+--------------------+
 | Signed:   | Signed:                    | Effective from:    |
 +-----------+----------------------------+--------------------+

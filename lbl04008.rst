@@ -4,7 +4,7 @@ LBL04008 - Using The Microwave
 
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL04008   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04008   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

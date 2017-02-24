@@ -22,7 +22,7 @@ Responsibilities
 ================
 The BSO is responsible for making sure the induction is itself carried out safely and to ensure that by the end of induction the inductees understand:
 
-- That use of, and access to, the laboratory is subject to agreeing to follow the `London Biohackspace BioLab Rules <biolab-rules.rst>`__ and by extension agreeing to follow the `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__ and SOPs.
+- That use of, and access to, the laboratory is subject to agreeing to follow the `BioLab Rules <biolab-rules.rst>`__ and by extension agreeing to follow the `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__ and SOPs.
 - That failing to follow the BioLab Rules or acting in a way that endangers others or the environment is grounds for being barred from accessing the laboratory.
 - How to access the lab and who is allowed in the lab.
 - That work with organisms in risk groups 2 and above is strictly forbidden in the lab and how to identify the risk group of an organism.
@@ -34,15 +34,15 @@ The BSO is responsible for making sure the induction is itself carried out safel
 - How to safely operate the equipment in the lab and where to seek  further information about its operation.
 - That in case of any uncertainty about a procedure the BSO should be sought for further information.
 
-| The current BSO is Samantha Thompson.
-| Email: bioscisam@gmail.com
-| Tel.: 07720677678.
+| The current BSO is <TODO INSERT:BSO>.
+| Email: TODO
+| Tel.: TODO.
 
 Related documents
 =================
 | `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet.rst>`__
-| `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
-| `London Biohackspace BioLab Rules <biolab-rules.rst>`__
+| `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
+| `BioLab Rules <biolab-rules.rst>`__
 
 Definitions
 ===========
@@ -89,7 +89,7 @@ The PPE necessary for work with Ethidium Bromide (EtBr) or any other work inside
 
 Working with Micro-organisms
 ----------------------------
-It will be stressed to the inductees that work in the London Biohackspace BioLab is limited to organisms in hazard group 1 (biological agents unlikely to cause human disease). An explanation of how to identify the hazard group classification of an organism using official databases will be given. 
+It will be stressed to the inductees that work in the BioLab is limited to organisms in hazard group 1 (biological agents unlikely to cause human disease). An explanation of how to identify the hazard group classification of an organism using official databases will be given.
 
 The inductees will be informed of where further details and resources can be found, and it will be stressed that in the case of uncertainty the BSO should be consulted.
 
@@ -101,7 +101,7 @@ The procedure for dealing with spillages of micro-organisms will be given and th
 
 Special GMO considerations
 --------------------------
-An explanation will be given of what is considered to be a GMO and what sort of projects are classed as containment level 1 (CL1) projects. 
+An explanation will be given of what is considered to be a GMO and what sort of projects are classed as containment level 1 (CL1) projects.
 
 The additional measures and procedures necessary for working with GMOs will be explained.
 
@@ -135,7 +135,7 @@ Explanations and, where practical, short demonstrations of the SOPs for the foll
 
 Documentation of Training
 -------------------------
-Each inductee that has successfully completed will sign the appropriate section of the `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet>`__ to confirm their adherence to the requirements explained during the induction. 
+Each inductee that has successfully completed will sign the appropriate section of the `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet>`__ to confirm their adherence to the requirements explained during the induction.
 
 The BSO will also sign the appropriate section of the document to confirm the successful completion of the induction for each inductee.
 

@@ -4,7 +4,7 @@ LBL04004 - Using The Incubator
 
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL04004   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04004   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

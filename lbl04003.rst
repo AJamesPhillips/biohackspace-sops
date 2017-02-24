@@ -3,7 +3,7 @@ LBL04003 - The BioLab Centrifuges and Their Usage
 =================================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL04003   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04003   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -24,15 +24,15 @@ Responsibilities
 
 Materials
 =========
-- 
+-
 
 Related documents
 =================
-- 
+-
 
 Definitions
 ===========
-- 
+-
 
 Procedures
 ==========

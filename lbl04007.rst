@@ -4,7 +4,7 @@ LBL04007 - Using the Kill Bin
 
 
 +-----------------------------+--------------------+
-|  Approved by: S. Thompson   | SOP No. LBL04007   |
+|  Approved by: <TODO INSERT:BSO>   | SOP No. LBL04007   |
 +-----------------------------+--------------------+
 |  Signed:                    | Effective from:    |
 +-----------------------------+--------------------+
@@ -43,7 +43,7 @@ refilling the kill bin with Virkon.
 
 Related documents
 =================
-| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__
 
 Materials
 =========

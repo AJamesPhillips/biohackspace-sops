@@ -3,7 +3,7 @@ LBL03001 - Roles and Responsibilities of the BSO
 ================================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL03001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL03001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -20,7 +20,7 @@ The intention here is also describe where responsibility lies in terms of ensuri
 Scope
 =====
 
-All users of the London Biohackspace BioLab need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
+All users of the BioLab need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
 
 Responsibilities
 ================
@@ -30,7 +30,7 @@ It is the BSO's responsibility to carry out the BSO's role outlined in this docu
 Related documents
 =================
 
-All other SOPs documented here reflect the best practice approach to using the London Biohackspace BioLab, if in any doubt please contact the BSO for clarification.
+All other SOPs documented here reflect the best practice approach to using the BioLab, if in any doubt please contact the BSO for clarification.
 
 Definitions
 ===========
@@ -49,7 +49,7 @@ PPE
 Requirements
 ============
 
-#. The BSO exists to ensure that the London Biohackspace SOPs and therefore the required safety regulations are adhered to by users of the BioLab. The SOPs have been defined based on relevant regulations and advice sought from qualified third parties. The SOPs reflect correct and safe lab usage.
+#. The BSO exists to ensure that the BioLab SOPs and therefore the required safety regulations are adhered to by users of the BioLab. The SOPs have been defined based on relevant regulations and advice sought from qualified third parties. The SOPs reflect correct and safe lab usage.
 
 #. It is the BSO's responsibility to induct new users into the laboratory (as per `LBL02001 <lbl02001.rst>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical BioLab procedures or to ensure that qualified trainers perform the induction which is ultimately checked and signed off by the BSO.
 

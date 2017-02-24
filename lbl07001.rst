@@ -4,7 +4,7 @@ LBL07001 - Preparation of competent *E. coli* (chemical method)
 
 
 +-----------------------+----------------+--------------------+
-| Author: S. Thompson   | Approved by:   | SOP No. LBL07001   |
+| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. LBL07001   |
 +-----------------------+----------------+--------------------+
 | Signed:               | Signed:        | Effective from:    |
 +-----------------------+----------------+--------------------+
@@ -41,7 +41,7 @@ Materials
 
 Related documents
 =================
-| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__  
+| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__
 | `LBL07002 - Heat shock transformation of *E. coli* <lbl07002.rst>`__
 
 Procedures

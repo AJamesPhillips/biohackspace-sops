@@ -3,14 +3,14 @@ LBL08002 - Topping up RO water in the Autoclave
 ===============================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL08002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL08002   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
 | Date:                      | Last edited:       |
 +----------------------------+--------------------+
 
-Purpose 
+Purpose
 =======
 This describes a user maintainance procedure for the Melag EuroKlav 29V-S.
 

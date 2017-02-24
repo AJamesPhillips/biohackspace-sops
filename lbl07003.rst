@@ -4,7 +4,7 @@ LBL07003 - Agarose Gel Preparation and Electrophoresis
 
 
 +-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL07003   |
+| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. LBL07003   |
 +-----------+----------------------------+--------------------+
 | Signed:   | Signed:                    | Effective from:    |
 +-----------+----------------------------+--------------------+

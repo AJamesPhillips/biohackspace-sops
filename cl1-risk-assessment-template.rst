@@ -1,5 +1,5 @@
 ========================================================
-London Biohackspace CL1 Project Risk Assessment Template
+BioMakeSpace BioLab CL1 Project Risk Assessment Template
 ========================================================
 
 **Project title:**
@@ -68,14 +68,14 @@ Tick (☑) all boxes (▢) that describe your project and fill in further detail
 | **Details of any non-standard storage of organisms:**                                             |
 |                                                                                                   |
 +---+-----------------------------------------------------------------------------------------------+
-| ▢ | **Any standard procedures carried out in the lab will follow the London Biohackspace Standard |
-|   | Operating Procedures.**                                                                       |
+| ▢ | **Any standard procedures carried out in the lab will follow the Biolab Standard Operating    |
+|   | Procedures.**                                                                                 |
 +---+-----------------------------------------------------------------------------------------------+
 | **Details of any non-standard procedures:**                                                       |
 |                                                                                                   |
 +---+-----------------------------------------------------------------------------------------------+
-| ▢ | **The modified organisms will not leave the London Biohackspace BioLab during this project in |
-|   | order to minimise the risk of introduction to the wider environment.**                        |
+| ▢ | **The modified organisms will not leave the BioLab during this project in order to minimise   |
+|   | the risk of introduction to the wider environment.**                                          |
 +---+-----------------------------------------------------------------------------------------------+
 | ▢ | **In the event of an accident, the health and safety of persons outside the BioLab are        |
 |   | unlikely to be seriously affected. A prepared emergency plan is therefore not necessary.**    |

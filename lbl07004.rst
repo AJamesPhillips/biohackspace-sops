@@ -4,7 +4,7 @@ LBL07004 - Setting Up and Running PCRs, e.g. Colony PCR
 
 
 +-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL07004   |
+| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. LBL07004   |
 +-----------+----------------------------+--------------------+
 | Signed:   | Signed:                    | Effective from:    |
 +-----------+----------------------------+--------------------+

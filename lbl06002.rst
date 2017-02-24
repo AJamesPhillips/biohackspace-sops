@@ -2,25 +2,25 @@
 LBL06002 - Risk Assessment Procedure for Transport of GMOs Outside the Lab
 ==========================================================================
 
-+----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL06002   |
-+----------------------------+--------------------+
-| Signed:                    | Effective from:    |
-+----------------------------+--------------------+
-| Date:                      | Last edited:       |
-+----------------------------+--------------------+
++----------------------------------+--------------------+
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL06002   |
++----------------------------------+--------------------+
+| Signed:                          | Effective from:    |
++----------------------------------+--------------------+
+| Date:                            | Last edited:       |
++----------------------------------+--------------------+
 
 Purpose
 =======
-The purpose of this SOP is to highlight the requirements to lab users seeking to transport GMOs outside the London Biohackspace BioLab. In particular, the points to consider when carrying out the required risk assessment for the act of transporting particular GMOs outside the BioLab.
+The purpose of this SOP is to highlight the requirements to lab users seeking to transport GMOs outside the BioLab. In particular, the points to consider when carrying out the required risk assessment for the act of transporting particular GMOs outside the BioLab.
 
 Scope
 =====
-This SOP applies to all users of the London Biohackspace BioLab proposing the transport of GMOs outside the BioLab.
+This SOP applies to all users of the BioLab proposing the transport of GMOs outside the BioLab.
 
 Responsibilities
 ================
-Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. the principal investigator) is responsible for the health and safety considerations and containment requirements involved with transporting GMOs outside the London Biohackspace BioLab. Before GMOs can be transported outside the BioLab, the risks to humans and the environment engendered by transport outside the BioLab must be assessed by the the principal investigator. They must seek advice from an experienced third party and the satisfactory results of this process must be signed off by the Biological Safety Officer.
+Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. the principal investigator) is responsible for the health and safety considerations and containment requirements involved with transporting GMOs outside the BioLab. Before GMOs can be transported outside the BioLab, the risks to humans and the environment engendered by transport outside the BioLab must be assessed by the the principal investigator. They must seek advice from an experienced third party and the satisfactory results of this process must be signed off by the Biological Safety Officer.
 
 Related documents
 =================
@@ -36,7 +36,7 @@ GMO
 
 Procedures
 ==========
-The PI should consider the transport of a GMO outside the BioLab to be its own project. This is the case even if the GMO to be transported has previously been worked with as part of a project in the BioLab. 
+The PI should consider the transport of a GMO outside the BioLab to be its own project. This is the case even if the GMO to be transported has previously been worked with as part of a project in the BioLab.
 
 The PI should follow the risk assessment procedures detailed in `LBL06001 <lbl06001.rst>`__ but should additionally take particular account of risks associated with transport itself. The following should be considered:
 

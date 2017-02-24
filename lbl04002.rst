@@ -3,7 +3,7 @@ LBL04002 - Using the Autoclave for Media Preparation
 ====================================================
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL04002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04002   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -12,8 +12,8 @@ LBL04002 - Using the Autoclave for Media Preparation
 
 Purpose
 =======
-   
-This describes the operation of the Melag EuroKlav 29V-S with regard to 
+
+This describes the operation of the Melag EuroKlav 29V-S with regard to
 the preparation of microbial culture media.
 
 |16350312215_9f5655c920_z.jpg|
@@ -22,7 +22,7 @@ Scope
 =====
 
 
-This should be observed every time the autoclave is used within the LBL 
+This should be observed every time the autoclave is used within the LBL
 BioLab for media preparation.
 
 Responsibilities
@@ -34,7 +34,7 @@ The operator is responsible for ensuring complete sterilization of containers, g
 
 Related documents
 =================
-| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__ 
+| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__
 
 Materials
 =========

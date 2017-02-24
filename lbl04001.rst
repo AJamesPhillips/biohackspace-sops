@@ -4,7 +4,7 @@ LBL04001 - Operating the Spectrophotometer
 
 
 +----------------------------+--------------------+
-| Approved by: S. Thompson   | SOP No. LBL04001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -14,8 +14,8 @@ LBL04001 - Operating the Spectrophotometer
 Purpose
 =======
 The following document describes the procedure for the operation
-of the UNICAM Helios Beta Spectrophometer. This instrument is used to measure 
-how much light is absorbed by a liquid sample. This 
+of the UNICAM Helios Beta Spectrophometer. This instrument is used to measure
+how much light is absorbed by a liquid sample. This
 instrument supports a range of visible and UV wavelengths of light.
 
 |14794946891_a616cdbabe_z.jpg|
@@ -38,7 +38,7 @@ Materials
 
 This machine usese Quartz or plastic **cuvettes** with a optical path of 12mm.
 
-The equipment has replaceable UV and visible light bulbs. If either of the bulbs are not functional please email 
+The equipment has replaceable UV and visible light bulbs. If either of the bulbs are not functional please email
 `BSO <hello@biohackspace.org>`__ and report the situation.
 
 Definitions
