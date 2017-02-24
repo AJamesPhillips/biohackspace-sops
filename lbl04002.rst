@@ -1,9 +1,9 @@
 ====================================================
-LBL04002 - Using the Autoclave for Media Preparation
+BIO04002 - Using the Autoclave for Media Preparation
 ====================================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO04002   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -22,7 +22,7 @@ Scope
 =====
 
 
-This should be observed every time the autoclave is used within the LBL
+This should be observed every time the autoclave is used within the BIO
 BioLab for media preparation.
 
 Responsibilities
@@ -34,7 +34,7 @@ The operator is responsible for ensuring complete sterilization of containers, g
 
 Related documents
 =================
-| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__
+| `bio08002 - Topping up the RO water level in the Autoclave <bio08002.rst>`__
 
 Materials
 =========

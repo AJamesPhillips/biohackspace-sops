@@ -1,9 +1,9 @@
 ===================================
-LBL08001 - Maintenance and Cleaning
+BIO08001 - Maintenance and Cleaning
 ===================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL08001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO08001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -18,7 +18,7 @@ This document provides the daily, weekly and ad-hoc procedures that are in place
 
 Scope
 =====
-- This SOP applies to all users in all circumstances in the LBL biolab without exception.
+- This SOP applies to all users in all circumstances in the BIO biolab without exception.
 - In the case of specific instructions for Maintenance and Cleaning of equipment the user should defer to the relevant SOP for that particular piece of equipment.
 
 Responsibilities
@@ -48,8 +48,8 @@ The following items should be available in the lab
 
 Related documents
 =================
-| `LBL08003 - Handling spillage of micro-organisms <lbl08003.rst>`__
-| `LBL04007 - Using the Kill Bin <lbl04007.rst>`__
+| `BIO08003 - Handling spillage of micro-organisms <bio08003.rst>`__
+| `BIO04007 - Using the Kill Bin <bio04007.rst>`__
 
 Definitions
 ===========
@@ -90,7 +90,7 @@ Weekly cleaning and maintenance procedures
 ------------------------------------------
 
 #. Mop the floor with a 10% bleach solution
-#. Empty the Kill bin of waste and refill with Virkon solution. See `LBL04007 <lbl04007.rst>`__
+#. Empty the Kill bin of waste and refill with Virkon solution. See `BIO04007 <bio04007.rst>`__
 #. Empty the EtBr waste bin if it is full. See
 #. Stock check the levels of consumables
 

@@ -1,10 +1,10 @@
 =======================================================
-LBL07004 - Setting Up and Running PCRs, e.g. Colony PCR
+BIO07004 - Setting Up and Running PCRs, e.g. Colony PCR
 =======================================================
 
 
 +-----------+----------------------------+--------------------+
-| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. LBL07004   |
+| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. BIO07004   |
 +-----------+----------------------------+--------------------+
 | Signed:   | Signed:                    | Effective from:    |
 +-----------+----------------------------+--------------------+
@@ -17,7 +17,7 @@ Purpose
 
 Scope
 =====
-- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the LBL lab).
+- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the BIO lab).
 
 Responsibilities
 ================

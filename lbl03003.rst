@@ -1,9 +1,9 @@
 ====================================================================
-LBL03003 - Responsibilities of Principle Investigators and Lab Users
+BIO03003 - Responsibilities of Principle Investigators and Lab Users
 ====================================================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL03003   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO03003   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -58,7 +58,7 @@ BioLab Users
 Principle Investigators
 -----------------------
 
-#. PIs must follow the risk assessment procedure set out in `LBL06001 <lbl06001.rst>`__ when proposing new projects.
+#. PIs must follow the risk assessment procedure set out in `BIO06001 <bio06001.rst>`__ when proposing new projects.
 
 #. In the case of a project involving GMOs the PI must ensure that any work done by themselves or others conforms with the best practice for handling these organisms or material defined as a result of the risk assessment. The PI must therefore ensure that any other lab users who might be working on the PI's project are made aware of, and comply with, these best practices.
 

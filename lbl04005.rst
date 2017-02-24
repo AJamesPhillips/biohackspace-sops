@@ -1,10 +1,10 @@
 ======================================================================
-LBL04005: Operating the Laminar Flow Unit for Asceptic Sample Handling
+BIO04005: Operating the Laminar Flow Unit for Asceptic Sample Handling
 ======================================================================
 
 
 +-----------+----------------------------+--------------------+
-| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. LBL04005   |
+| Author:   | Approved by: <TODO INSERT:BSO>   | SOP No. BIO04005   |
 +-----------+----------------------------+--------------------+
 | Signed:   | Signed:                    | Effective from:    |
 +-----------+----------------------------+--------------------+
@@ -17,7 +17,7 @@ Purpose
 
 Scope
 =====
-- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the LBL lab).
+- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the BIO lab).
 
 Responsibilities
 ================

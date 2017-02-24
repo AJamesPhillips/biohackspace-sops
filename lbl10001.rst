@@ -1,9 +1,9 @@
 =====================================================================
-LBL10001 - Reporting of Accidents and Incidents
+BIO10001 - Reporting of Accidents and Incidents
 =====================================================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL10001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO10001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

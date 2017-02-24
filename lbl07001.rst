@@ -1,10 +1,10 @@
 ===============================================================
-LBL07001 - Preparation of competent *E. coli* (chemical method)
+BIO07001 - Preparation of competent *E. coli* (chemical method)
 ===============================================================
 
 
 +-----------------------+----------------+--------------------+
-| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. LBL07001   |
+| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. BIO07001   |
 +-----------------------+----------------+--------------------+
 | Signed:               | Signed:        | Effective from:    |
 +-----------------------+----------------+--------------------+
@@ -18,7 +18,7 @@ lab strains such as DH5alpha for subsequent transformation.
 
 Scope
 =====
-This should be observed for all such E. Coli preparation within the LBL
+This should be observed for all such E. Coli preparation within the BIO
 lab but does not include variations for other species or preparations
 for other transformation methods e.g electroporation.
 
@@ -41,8 +41,8 @@ Materials
 
 Related documents
 =================
-| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__
-| `LBL07002 - Heat shock transformation of *E. coli* <lbl07002.rst>`__
+| `BIO04002 - Using the Autoclave for Media Preparation <bio04002.rst>`__
+| `BIO07002 - Heat shock transformation of *E. coli* <bio07002.rst>`__
 
 Procedures
 ==========

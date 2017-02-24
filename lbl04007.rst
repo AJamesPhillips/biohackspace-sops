@@ -1,10 +1,10 @@
 =============================
-LBL04007 - Using the Kill Bin
+BIO04007 - Using the Kill Bin
 =============================
 
 
 +-----------------------------+--------------------+
-|  Approved by: <TODO INSERT:BSO>   | SOP No. LBL04007   |
+|  Approved by: <TODO INSERT:BSO>   | SOP No. BIO04007   |
 +-----------------------------+--------------------+
 |  Signed:                    | Effective from:    |
 +-----------------------------+--------------------+
@@ -26,8 +26,8 @@ Scope
 
 - The kill bin **is not suitable** for inactivation of GMOs, or plastics and
   consumables which may have come into contact with GMOs. The autoclave should
-  be used instead. See `LBL04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation",
-  and `LBL05001 <lbl05001.rst>`__, "Containment Level One for Biolab Users".
+  be used instead. See `BIO04006 <bio04006.rst>`__, "Using the autoclave for waste deactivation",
+  and `BIO05001 <bio05001.rst>`__, "Containment Level One for Biolab Users".
 
 - The bin is also not effective for the deactivation of bacterial spores. Waste
   that may contain spores should be autoclaved.
@@ -43,7 +43,7 @@ refilling the kill bin with Virkon.
 
 Related documents
 =================
-| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__
+| `BIO04006 - Using the Autoclave for Waste Deactivation <bio04006.rst>`__
 
 Materials
 =========

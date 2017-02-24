@@ -1,10 +1,10 @@
 ==========================================
-LBL04001 - Operating the Spectrophotometer
+BIO04001 - Operating the Spectrophotometer
 ==========================================
 
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO04001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -23,7 +23,7 @@ instrument supports a range of visible and UV wavelengths of light.
 Scope
 =====
 
-This should be observed every time the Spectrophotometer is used within the LBL BioLab with GMO and non-GMO samples.
+This should be observed every time the Spectrophotometer is used within the BIO BioLab with GMO and non-GMO samples.
 
 Responsibilities
 ================

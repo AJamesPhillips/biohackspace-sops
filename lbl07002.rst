@@ -1,10 +1,10 @@
 ================================================
-LBL07002 - Heat shock transformation of *E. coli*
+BIO07002 - Heat shock transformation of *E. coli*
 ================================================
 
 
 +-----------------------+----------------+--------------------+
-| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. LBL07002   |
+| Author: <TODO INSERT:BSO>   | Approved by:   | SOP No. BIO07002   |
 +-----------------------+----------------+--------------------+
 | Signed:               | Signed:        | Effective from:    |
 +-----------------------+----------------+--------------------+
@@ -18,7 +18,7 @@ lab strains such as DH5alpha.
 
 Scope
 =====
-This should be observed for all such transformations within the LBL lab
+This should be observed for all such transformations within the BIO lab
 but does not include variations of other species or other transformation
 methods e.g electroporation.
 
@@ -39,8 +39,8 @@ Materials
 
 Related documents
 =================
-| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__
-| `LBL07001 - Preparation of competent *E. coli* (chemical method) <lbl07001.rst>`__
+| `BIO04002 - Using the Autoclave for Media Preparation <bio04002.rst>`__
+| `BIO07001 - Preparation of competent *E. coli* (chemical method) <bio07001.rst>`__
 
 
 Procedures

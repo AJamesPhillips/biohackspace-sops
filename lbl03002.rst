@@ -1,9 +1,9 @@
 ============================================================================
-LBL03002 - Composition, Roles, and Responsibilities of the Safety Committee
+BIO03002 - Composition, Roles, and Responsibilities of the Safety Committee
 ============================================================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL03002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO03002   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

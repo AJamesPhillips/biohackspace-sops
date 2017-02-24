@@ -55,8 +55,8 @@ Tick (☑) all boxes (▢) that describe your project and fill in further detail
 |                                                                                                   |
 +---+-----------------------------------------------------------------------------------------------+
 | ▢ | **Any work done with genetically modified organisms (GMOs) will adhere to containment level 1 |
-|   | (CL1) containment procedures according to LBL05001, including the standard procedure for      |
-|   | deactivation of GMO contaminated waste through autoclaving as detailed in LBL04006.**         |
+|   | (CL1) containment procedures according to BIO05001, including the standard procedure for      |
+|   | deactivation of GMO contaminated waste through autoclaving as detailed in BIO04006.**         |
 +---+-----------------------------------------------------------------------------------------------+
 | **Details of any non-standard GMO disposal procedure:**                                           |
 |                                                                                                   |

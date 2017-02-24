@@ -1,9 +1,9 @@
 ==========================================================================
-LBL06002 - Risk Assessment Procedure for Transport of GMOs Outside the Lab
+BIO06002 - Risk Assessment Procedure for Transport of GMOs Outside the Lab
 ==========================================================================
 
 +----------------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL06002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO06002   |
 +----------------------------------+--------------------+
 | Signed:                          | Effective from:    |
 +----------------------------------+--------------------+
@@ -24,7 +24,7 @@ Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. 
 
 Related documents
 =================
-| `LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects <lbl06001.rst>`__
+| `BIO06001 - Risk Assessment Procedure for Lab Users Proposing New Projects <bio06001.rst>`__
 
 Definitions
 ===========
@@ -38,7 +38,7 @@ Procedures
 ==========
 The PI should consider the transport of a GMO outside the BioLab to be its own project. This is the case even if the GMO to be transported has previously been worked with as part of a project in the BioLab.
 
-The PI should follow the risk assessment procedures detailed in `LBL06001 <lbl06001.rst>`__ but should additionally take particular account of risks associated with transport itself. The following should be considered:
+The PI should follow the risk assessment procedures detailed in `BIO06001 <bio06001.rst>`__ but should additionally take particular account of risks associated with transport itself. The following should be considered:
 
 #. What packaging and labelling is suitable for safely transporting the GMOs in question?
 #. Has appropriate information been supplied to the person transporting the GMOs?

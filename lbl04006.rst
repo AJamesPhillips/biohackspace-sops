@@ -1,10 +1,10 @@
 =====================================================
-LBL04006 - Using the Autoclave for Waste Deactivation
+BIO04006 - Using the Autoclave for Waste Deactivation
 =====================================================
 
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL04006   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO04006   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -42,7 +42,7 @@ Suitable hand and eye protection should be worn.
 
 Related documents
 =================
-| `LBL08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__
+| `BIO08002 - Topping up the RO water level in the Autoclave <bio08002.rst>`__
 
 Materials
 =========
@@ -50,7 +50,7 @@ The autoclave requires a supply of reverse osmosis purified water (**RO water**)
 level falls below a minimum level, the operator will be required to top
 up the system. The RO water is available from the tank under the
 counter. The autoclave is filled into the tank from the top of the
-machine. Please see `LBL08002 <lbl08002.rst>`__
+machine. Please see `BIO08002 <bio08002.rst>`__
 for details of this procedure.
 
 The daily test, and waste deactivation runs of the autoclave require

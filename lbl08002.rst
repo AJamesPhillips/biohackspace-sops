@@ -1,9 +1,9 @@
 ===============================================
-LBL08002 - Topping up RO water in the Autoclave
+BIO08002 - Topping up RO water in the Autoclave
 ===============================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL08002   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO08002   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+

@@ -1,10 +1,10 @@
 =========================================================================
-LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
+BIO06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
 =========================================================================
 
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL06001   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO06001   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -89,7 +89,7 @@ Items for PIs to consider
 
 #. In handling the organism the PI should consider any risks involved, for example what PPE will be required? What risks are involved in setting up and running fermentation and growth systems, for example. Particularly, are any non-standard procedures involved?
 
-#. The PI should consider any special requirements in disposing of the micro-organisms, in particular, to ensure destruction of viable organisms, any GMO contaminated waste should be inactivated by autoclaving as detailed in `LBL04006 <lbl04006.rst>`__.
+#. The PI should consider any special requirements in disposing of the micro-organisms, in particular, to ensure destruction of viable organisms, any GMO contaminated waste should be inactivated by autoclaving as detailed in `BIO04006 <bio04006.rst>`__.
 
 #. The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge and/or at room temperature and if it requires any other special storage requirements.
 

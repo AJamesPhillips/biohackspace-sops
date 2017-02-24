@@ -1,9 +1,9 @@
 ===============================================
-LBL08003 - Handling spillage of micro-organisms
+BIO08003 - Handling spillage of micro-organisms
 ===============================================
 
 +----------------------------+--------------------+
-| Approved by: <TODO INSERT:BSO>   | SOP No. LBL08003   |
+| Approved by: <TODO INSERT:BSO>   | SOP No. BIO08003   |
 +----------------------------+--------------------+
 | Signed:                    | Effective from:    |
 +----------------------------+--------------------+
@@ -67,7 +67,7 @@ The spill kit contains
 Related documents
 =================
 | `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
-| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__
+| `BIO04006 - Using the Autoclave for Waste Deactivation <bio04006.rst>`__
 
 Definitions
 ===========
@@ -89,7 +89,7 @@ Dealing with a spill of micro-organisms
 #. Sprinkle Virkon powder liberally over spill.
 #. The remainder of the spill should be absorbed into blue roll.
 #. Once the spill is contained, the absorbant material and blue roll should be placed in an autoclave bag and transported to the autoclave.
-#. The waste and sand should then be treated as contaminated waste and processed as per `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ .
+#. The waste and sand should then be treated as contaminated waste and processed as per `BIO04006 - Using the Autoclave for Waste Deactivation <bio04006.rst>`__ .
 #. By now there should be no visible remaining spilled material. But a second stage of disinfection should be performed with 1% Virkon solution, leaving the Virkon in contact with the contaminated area for 10 minutes before wiping away with blue roll.
 #. The incident should be recorded in the day book.
 

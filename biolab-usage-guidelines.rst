@@ -79,7 +79,7 @@ Procedures should be performed in a manner that minimizes the creation of aeroso
 
 Clean and decontaminate work surfaces with a suitable disinfectant at the end of the day. Our standard disinfectant is 1% virkon solution.
 
-After any spillage of liquid containing biological agents, the procedures for dealing with spillages, as set out in `LBL08003 <lbl08003.rst>`__, should be followed.
+After any spillage of liquid containing biological agents, the procedures for dealing with spillages, as set out in `BIO08003 <bio08003.rst>`__, should be followed.
 
 Biohazardous material must be clearly marked with a biohazard symbol.
 
@@ -120,9 +120,9 @@ Below are definitions reproduced from `The Genetically Modified Organisms (Conta
 
 If the user is unsure of whether a proposed project requires CL1, the BSO should be sought before any work on the project commences.
 
-A user must have an approved risk assessment for any work involving genetic modification before commencing this work. More information on the process of risk assessment and approval can be found in SOP `LBL06001 <lbl06001.rst>`__. A separate risk assessment must be performed and approved for transporting any GMO outside the laboratory (details in SOP `LBL06002 <lbl06002.rst>`__).
+A user must have an approved risk assessment for any work involving genetic modification before commencing this work. More information on the process of risk assessment and approval can be found in SOP `BIO06001 <bio06001.rst>`__. A separate risk assessment must be performed and approved for transporting any GMO outside the laboratory (details in SOP `BIO06002 <bio06002.rst>`__).
 
-CL1 activities must follow the procedures set out in `LBL05001 <lbl05001.rst>`__ and the further procedures set out in the approved risk assessment.
+CL1 activities must follow the procedures set out in `BIO05001 <bio05001.rst>`__ and the further procedures set out in the approved risk assessment.
 
 In general this includes:
 
@@ -140,7 +140,7 @@ The microwave is a familiar device to probably all laboratory users and the stan
 
 One of the primary uses of the microwave is heating of agarose for the casting of electrophoresis gels. Users should be aware that prior, possibly less careful, microwave operators may have inadvertently contaminated the microwave with biological material and/or hazardous chemicals, operation of the microwave using gloves and goggles is therefore recommended in any case.
 
-More information on microwave usage is available in `LBL04008 <lbl04008.rst>`__.
+More information on microwave usage is available in `BIO04008 <bio04008.rst>`__.
 
 Spectrophotometer
 =================
@@ -148,7 +148,7 @@ The spectrophotometer is a device that measure the absorbance of a given liquid 
 
 Users should be aware that this system can generate light of harmful intensities in both ultraviolet and infra-red wavelengths. While most of the optical path and the bulbs required to generate this light is contained within the system, the light is beamed into the sample measurement compartment of the device. As such the spectrophotometer should be operated only with the sample measurement compartment fully closed.
 
-More information on spectrophotometer usage is available in `LBL04001 <lbl04001.rst>`__.
+More information on spectrophotometer usage is available in `BIO04001 <bio04001.rst>`__.
 
 PCR Machine
 ===========
@@ -156,7 +156,7 @@ The Polymerase Chain Reaction (PCR) machine, also known as a thermal cycler, is 
 
 The heating block and underside lid of this machine will typically reach temperatures in the region of 95-100°C in a typical amplification program and caution should be exercised when placing and removing samples.
 
-More information on usage of the Techne thermal cycler is available in `LBL07004 <lbl07004.rst>`__ and the `technical documentation <https://wiki.london.hackspace.org.uk/w/images/6/6c/Gensoft.pdf>`__ [#]_.
+More information on usage of the Techne thermal cycler is available in `BIO07004 <bio07004.rst>`__ and the `technical documentation <https://wiki.london.hackspace.org.uk/w/images/6/6c/Gensoft.pdf>`__ [#]_.
 
 .. [#] http://wiki.london.hackspace.org.uk/w/images/6/6c/Gensoft.pdf
 
@@ -169,7 +169,7 @@ Caution should be exercised when plugging in and handling electrodes due to risk
 
 This instrument is also often used in conjunction with ethidium bromide based procedures (see below), and may therefore be contaminated. It must be operated using gloves.
 
-More information on electrophoresis PSU usage is available in `LBL07003 <lbl07003.rst>`__.
+More information on electrophoresis PSU usage is available in `BIO07003 <bio07003.rst>`__.
 
 Electrophoresis tank and Ethidium Bromide area
 ==============================================
@@ -181,9 +181,9 @@ Any consumables used when handling ethidium bromide, such as gloves and tips, sh
 
 Separate pipettes designated for ethidium bromide work and labelled as such should only be used for molecular biology work in this area, and these pipettes should not be used anywhere else.
 
-A full description of how to set up and run agarose gels for DNA electrophoresis is available in `LBL07003 <lbl07003.rst>`__.
+A full description of how to set up and run agarose gels for DNA electrophoresis is available in `BIO07003 <bio07003.rst>`__.
 
-More information on working with ethidium bromide is available in `LBL09001 <lbl09001.rst>`__.
+More information on working with ethidium bromide is available in `BIO09001 <bio09001.rst>`__.
 
 UV illuminator
 ==============
@@ -195,7 +195,7 @@ The typical stain used is ethidium bromide which is a fluorophore that is excite
 
 2. UV light can be damaging to exposed surfaces of the body and, especially, to the eyes. In extreme circumstances, or under prolonged use, this can lead to carcinomas or eyesight damage. Eye protection must, therefore, be used by all people present within the laboratory when UV gel visualisation is taking place. Suitable glasses are available and will be indicated by the BSO. Further, users of the illuminator must ensure that PPE prevents any UV light from reaching exposed skin. Users should aim to minimise the time in which the UV light source is switched on.
 
-More information on working with the UV illuminator is available in `LBL07006 <lbl07006.rst>`__.
+More information on working with the UV illuminator is available in `BIO07006 <bio07006.rst>`__.
 
 HEPA flow cabinet/area
 ======================
@@ -203,7 +203,7 @@ The HEPA-filtered laminar flow unit allows us to work in sterile air in order to
 
 It should be noted that the laminar flow functions in such a way as to protect the user’s work rather than the user, and so caution must still be exercised by the user when maintain the aseptic conditions of materials used within the flow area, and in disposal of consumables to assist in containment of biomaterial.
 
-For more information on aseptic technique, see `LBL04005 <lbl04005.rst>`__.
+For more information on aseptic technique, see `BIO04005 <bio04005.rst>`__.
 
 Autoclave
 =========
@@ -211,13 +211,13 @@ The autoclave is used to destroy any potential micro-organisms that might contam
 
 The main risks to the user are heat of the metal pressurised unit during sterilisation and any vented steam. It is recommended that the autoclave and contents are allowed to cool for a while before handling.
 
-The correct procedures for using the autoclave/steriliser to prepare media and destroy GM waste are described in `LBL04002 <lbl04002.rst>`__, and `LBL04006 <lbl04006.rst>`__.
+The correct procedures for using the autoclave/steriliser to prepare media and destroy GM waste are described in `BIO04002 <bio04002.rst>`__, and `BIO04006 <bio04006.rst>`__.
 
 Sink area
 =========
 The sink area should remain clear. All glassware should be kept clean and out of the way.
 
-The sink is connected to the municipal drain. No biological material should be disposed of in the sink unless it has been inactivated appropriately (see `LBL04006 <lbl04006.rst>`__ for autoclave-based inactivation, or `LBL04007 <lbl04007.rst>`__ for kill-bin-based disposal).
+The sink is connected to the municipal drain. No biological material should be disposed of in the sink unless it has been inactivated appropriately (see `BIO04006 <bio04006.rst>`__ for autoclave-based inactivation, or `BIO04007 <bio04007.rst>`__ for kill-bin-based disposal).
 
 Dangerous reagents and chemicals, in particular ethidium bromide, should not be poured down the sink. If there is any doubt about whether a particular chemical or reagent can be disposed of safely, consult the BSO.
 
@@ -227,7 +227,7 @@ The incubator is typically used for the culture of mesophiles, and, as such, doe
 
 Care should be taken when moving samples to and from the incubator as per handling biocontaminants mentioned previously.
 
-Please refer to `LBL04004 <lbl04004.rst>`__ for more information.
+Please refer to `BIO04004 <bio04004.rst>`__ for more information.
 
 Centrifuges
 ===========
@@ -241,7 +241,7 @@ All centrifuges should be cleaned after use for the purpose of biosafety, contai
 
 Due to the high rotation speed of the centrifuge arms, it is essential that loads be balanced during operation of the centrifuges. When loading a centrifuge, ensure that samples are placed in such a way as to create a balanced load (it may be necessary to use blanks in order to achieve this). Failure to do so could result in serious damage to the centrifuge and possibly cause injury in the case of a catastrophic failure.
 
-For more information on the use of the centrifuges, refer to `LBL04003 <lbl04003.rst>`__.
+For more information on the use of the centrifuges, refer to `BIO04003 <bio04003.rst>`__.
 
 Resources
 =========
